@@ -1,4 +1,5 @@
 Customer Segmentation Dashboard for Kalbe Nutritionals
+
 This repository contains the project for building a Customer Segmentation Dashboard as part of the Data Scientist Project-Based Internship at Kalbe Nutritionals. The goal of this project is to segment customers based on their behavior and demographics to support targeted marketing strategies and enhance customer engagement.
 
 Project Overview
